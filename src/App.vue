@@ -55,7 +55,7 @@ const packages = [
    <h5
     class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
   >
-    Recientemente se a migracion @signati/core a @cfdi/xml
+    Recientemente se a migrado de @signati/core a @cfdi/xml
   </h5>
   <div class="grid xs:grid-cols-1  sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
     <div v-for="(lib, i) of packages" :key="i">
