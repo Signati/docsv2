@@ -7,6 +7,12 @@ const packages = [
       "Libreria para crear y sellar xml cfdi V4.0 de forma mas sencilla y rapida",
   },
   {
+    name: "@cfdi/complementos",
+    icon: "xml",
+    description:
+      "Libreria para generar los complementos",
+  },
+  {
     name: "@cfdi/csd",
     icon: "csd",
     description:
