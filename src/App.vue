@@ -42,7 +42,7 @@ const packages = [
   {
     name: "@cfdi/csf",
     icon: "csd",
-    description: "En desarrollo",
+    description: "Estado en beta",
   },
   {
     name: "@cfdi/rfc",
